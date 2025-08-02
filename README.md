@@ -1,6 +1,16 @@
 # 💫 About Me:
-Hey there! 👋 I'm Pranav Gupta, a software engineer passionate about crafting exceptional web applications.<br><br>🔭 Currently, I'm working on developing a new web application using React.js and Node.js.<br><br>👯 I'm always looking to collaborate on exciting new projects and to learn from other developers in the community.<br><br>🌱 Right now, I'm learning more about TypeScript, Next.js and AWS to improve my web development skills.<br><br>💬 Feel free to contact me anytime.<br><br>⚡ Fun fact: My passion for this field was fueled by the iconic TV series "Mr Robot."
-
+👋 Hi, I’m Pranav Gupta, an AI-able Full Stack Engineer with 4+ years of experience building scalable, user-focused web platforms end-to-end.
+<br><br>
+🛠 Skilled in translating business needs into impactful solutions via Frontend and Backend development, scalable architectures, and performance optimizations. 
+<br><br>
+✨ Passionate about creatively solving business problems, building impactful products, and driving innovation through collaboration.
+<br><br>
+🚀 Helped my company launch a new vertical & unlocking $200K+ increase in ARR.
+<br><br>
+🧘‍♀️ My Mantra - Simple equals Better!
+<br><br>
+Let’s connect and explore opportunities to create something meaningful together! 🤝
+<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranavgupta99/) [![PORTFOLIO](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://pranavgupta.vercel.app/) [![LEETCODE](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/pranav043/)
