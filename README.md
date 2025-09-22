@@ -1,16 +1,34 @@
 # 💫 About Me:
-👋 Hi, I’m Pranav Gupta, an AI-able Full Stack Engineer with 4+ years of experience building scalable, user-focused web platforms end-to-end.
+Full Stack Engineer with 4+ years of experience transforming business ideas into scalable, high-performance web platforms that drive measurable results. I specialize in creating end-to-end solutions that bridge business requirements with technical excellence.
+
+Currently responsible for end-to-end development, including frontend, backend, and mobile app development, while ensuring platform stability, scalability, and security. My role encompasses mentoring, code reviews, product management, and system/performance optimizations, contributing to a seamless user experience on the platform.  
+
+🛠 Technical Expertise:
+• Frontend: React, Next.js, Redux, Zustand, Material UI, Tailwind CSS, TypeScript, JavaScript
+<br>
+• Backend: Node.js, Express.js, MongoDB, PostgreSQL, MySQL, Redis, RabbitMQ, RESTful APIs
+<br>
+• Cloud & DevOps: AWS (S3, SQS), Docker, CI/CD, Git, Agile methodologies
+<br>
+• Performance Optimization: Query optimization, System architecture improvements, Profiling, Improving Web Metrics, Handling memory leaks
 <br><br>
-🛠 Skilled in translating business needs into impactful solutions via Frontend and Backend development, scalable architectures, and performance optimizations. 
-<br><br>
-✨ Passionate about creatively solving business problems, building impactful products, and driving innovation through collaboration.
-<br><br>
-🚀 Helped my company launch a new vertical & unlocking $200K+ increase in ARR.
-<br><br>
-🧘‍♀️ My Mantra - Simple equals Better!
-<br><br>
-Let’s connect and explore opportunities to create something meaningful together! 🤝
-<br><br>
+📈 Key Achievements:
+<br>
+✅ Built a new B2B vertical contributing $200K+ in new ARR.
+<br>
+✅ Built centralized notification service boosting delivery success by 35%
+<br>
+✅ Engineered interactive wellness interfaces increasing user retention by 18%
+<br>
+✅ Optimized 100+ high-latency database queries for massive performance gains
+<br>
+✅ Mentored junior developers, reducing onboarding time by 40%
+<br>
+
+🎯 Passionate about solving complex business problems through clean, scalable code and driving innovation through cross-functional collaboration.
+
+🤝 Open to opportunities where I can leverage my full-stack expertise to build impactful products that make a difference. Let's connect and explore how I can contribute to your team's success!
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fullstackpranav/) [![PORTFOLIO](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://pranavgupta.vercel.app/) [![LEETCODE](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/pranav043/)
