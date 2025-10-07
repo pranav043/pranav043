@@ -4,6 +4,7 @@ Full Stack Engineer with 4+ years of experience transforming business ideas into
 Currently responsible for end-to-end development, including frontend, backend, and mobile app development, while ensuring platform stability, scalability, and security. My role encompasses mentoring, code reviews, product management, and system/performance optimizations, contributing to a seamless user experience on the platform.  
 
 🛠 Technical Expertise:
+<br>
 • Frontend: React, Next.js, Redux, Zustand, Material UI, Tailwind CSS, TypeScript, JavaScript
 <br>
 • Backend: Node.js, Express.js, MongoDB, PostgreSQL, MySQL, Redis, RabbitMQ, RESTful APIs
@@ -14,15 +15,15 @@ Currently responsible for end-to-end development, including frontend, backend, a
 <br><br>
 📈 Key Achievements:
 <br>
-✅ Built a new B2B vertical contributing $200K+ in new ARR.
+• Built a new B2B vertical contributing $200K+ in new ARR.
 <br>
-✅ Built centralized notification service boosting delivery success by 35%
+• Built centralized notification service boosting delivery success by 35%
 <br>
-✅ Engineered interactive wellness interfaces increasing user retention by 18%
+• Engineered interactive wellness interfaces increasing user retention by 18%
 <br>
-✅ Optimized 100+ high-latency database queries for massive performance gains
+• Optimized 100+ high-latency database queries for massive performance gains
 <br>
-✅ Mentored junior developers, reducing onboarding time by 40%
+• Mentored junior developers, reducing onboarding time by 40%
 <br>
 
 🎯 Passionate about solving complex business problems through clean, scalable code and driving innovation through cross-functional collaboration.
