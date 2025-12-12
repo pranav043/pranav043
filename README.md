@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full Stack Engineer with 4+ years of experience transforming business ideas into scalable, high-performance web platforms that drive measurable results. I specialize in creating end-to-end solutions that bridge business requirements with technical excellence.
+Full Stack Engineer with 5+ years of experience transforming business ideas into scalable, high-performance web platforms that drive measurable results. I specialize in creating end-to-end solutions that bridge business requirements with technical excellence.
 
 Currently responsible for end-to-end development, including frontend, backend, and mobile app development, while ensuring platform stability, scalability, and security. My role encompasses mentoring, code reviews, product management, and system/performance optimizations, contributing to a seamless user experience on the platform.  
 
